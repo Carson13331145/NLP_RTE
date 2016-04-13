@@ -1,7 +1,7 @@
 # NLP_RTE
 
-Discription: Chinese textual entailment</br>
-Start time: 2015.10 - unknown
+**Discription:** Chinese textual entailment</br>
+**Start time:** 2015.10 - unknown
 
 **My work:**</br>
 1. Analize Standford-Parser;</br>
