@@ -3,7 +3,7 @@
 Discription: Chinese textual entailment</br>
 Start time: 2015.10 - unknown
 
-My work:</br>
+** My work:</br>
 1. Analize Standford-Parser;</br>
 (\RTE_1_3_WORDNET\STF_PARSER)</br>
 2. Use jieba to parse Wiki-corpus(Chinese) and redo the word2vec experiment;</br>
